@@ -1,0 +1,14 @@
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Cadastro Relampago\CadastroRelampago\bin\Debug\net9.0\CadastroRelampago.exe
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Cadastro Relampago\CadastroRelampago\bin\Debug\net9.0\CadastroRelampago.deps.json
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Cadastro Relampago\CadastroRelampago\bin\Debug\net9.0\CadastroRelampago.runtimeconfig.json
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Cadastro Relampago\CadastroRelampago\bin\Debug\net9.0\CadastroRelampago.dll
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Cadastro Relampago\CadastroRelampago\bin\Debug\net9.0\CadastroRelampago.pdb
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Cadastro Relampago\CadastroRelampago\obj\Debug\net9.0\CadastroRelampago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Cadastro Relampago\CadastroRelampago\obj\Debug\net9.0\CadastroRelampago.AssemblyInfoInputs.cache
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Cadastro Relampago\CadastroRelampago\obj\Debug\net9.0\CadastroRelampago.AssemblyInfo.cs
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Cadastro Relampago\CadastroRelampago\obj\Debug\net9.0\CadastroRelampago.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Cadastro Relampago\CadastroRelampago\obj\Debug\net9.0\CadastroRelampago.dll
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Cadastro Relampago\CadastroRelampago\obj\Debug\net9.0\refint\CadastroRelampago.dll
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Cadastro Relampago\CadastroRelampago\obj\Debug\net9.0\CadastroRelampago.pdb
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Cadastro Relampago\CadastroRelampago\obj\Debug\net9.0\CadastroRelampago.genruntimeconfig.cache
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Cadastro Relampago\CadastroRelampago\obj\Debug\net9.0\ref\CadastroRelampago.dll
